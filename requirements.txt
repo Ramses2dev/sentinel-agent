@@ -1,0 +1,2 @@
+bnbagent-sdk
+requests
