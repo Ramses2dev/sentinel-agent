@@ -1,0 +1,14 @@
+{
+    "created_at": "2026-06-06T09:14:37.321570+00:00",
+    "last_reset_date": "2026-06-06",
+    "initial_equity": 1000.0,
+    "start_day_equity": 1280.1057340631762,
+    "daily_trade_count": 1,
+    "kill_switch": false,
+    "positions": {
+        "BNBUSDT": "LONG"
+    },
+    "last_trade_time": {
+        "BNBUSDT": "2026-06-06T09:14:40.151901+00:00"
+    }
+}
